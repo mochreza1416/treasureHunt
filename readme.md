@@ -1,6 +1,6 @@
 ## Treasure Hunt ##
 
-### a simple command-line program for helping the user hunt for a treasure that satisfies """
+### a simple command-line program for helping the user hunt for a treasure that satisfies ###
 
 1. Install node.js
 2. Install depedencies
